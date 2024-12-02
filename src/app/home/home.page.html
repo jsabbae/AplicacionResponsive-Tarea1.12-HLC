@@ -1,0 +1,29 @@
+
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Listado de personas</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-input [(ngModel)]="filtro" placeholder="Introduce los datos del filtro"></ion-input>
+  
+  <ion-grid>
+    <ion-row>
+      <ng-container *ngFor="let user of users | async">
+        <ion-col *ngIf="filtro=='' || user.name.first.startsWith(filtro)" size-xl="2" size-lg="2" size-md="4" size-sm="6" size-xs="12">
+          <ion-card>
+            <ion-card-content>
+              <ion-avatar>
+                <img [src]="user.picture.medium">
+              </ion-avatar>
+              <h1>{{ user.name.first }} {{ user.name.last }}</h1>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus, nibh at finibus aliquam, felis sem vulputate eros, non faucibus nisi libero non sem. Duis pharetra facilisis quam sit amet vulputate.
+              Curabitur imperdiet orci vitae rutrum faucibus. Sed nunc purus, vulputate porttitor leo non, tincidunt mattis lacus. Quisque sit amet arcu neque. Vivamus quis suscipit turpis. Sed finibus lectus in laoreet ultrices.
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ng-container>
+    </ion-row>
+  </ion-grid>
+</ion-content>
