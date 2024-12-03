@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "year": 1971,
+      "genre": "Rock"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "year": 1975,
+      "genre": "Rock"
+    },
+    {
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "year": 1971,
+      "genre": "Rock"
+    },
+
+    {
+      "title": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "year": 1965,
+      "genre": "Folk Rock"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "year": 1991,
+      "genre": "Grunge"
+    },
+    {
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "year": 1971,
+      "genre": "Soul"
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "year": 1976,
+      "genre": "Rock"
+    },
+    {
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "year": 1968,
+      "genre": "Rock"
+    },
+    {
+      "title": "Superstition",
+      "artist": "Stevie Wonder",
+      "year": 1972,
+      "genre": "Funk"
+    }
+  ]
