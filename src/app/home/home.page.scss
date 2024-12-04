@@ -42,6 +42,12 @@ ion-card img {
   }
 }
 
+@media screen and (orientation: portrait) {
+  #some-element {
+    display: block;
+  }
+}
+
 //  Pantallas pequeñas
 @media (max-width: 600px) {
   ion-card {
