@@ -29,6 +29,7 @@
 ion-card {
   margin-bottom: 10px;
 }
+
 ion-card img {
   width: 100%;
   height: auto;
@@ -38,5 +39,23 @@ ion-card img {
 @media screen and (orientation: landscape) {
   ion-card {
     flex-direction: column;
+  }
+}
+
+//  Pantallas pequeñas
+@media (max-width: 600px) {
+  ion-card {
+    margin: 5px;
+  }
+
+  ion-card img {
+    border-bottom: 1px solid #ddd;
+  }
+}
+
+//  Disponible para tablets o teléfonos grandes en modo horizontal
+@media (min-width: 601px) and (max-width: 1024px) {
+  ion-card {
+    margin: 8px;
   }
 }

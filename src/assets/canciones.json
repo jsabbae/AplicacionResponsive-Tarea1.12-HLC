@@ -1,72 +1,72 @@
 [
   {
-    "title": "Despacito",
-    "artist": "Luis Fonsi ft. Daddy Yankee",
-    "year": 2017,
-    "genre": "Reguetón / Pop Latino",
-    "image": "assets/imagen/despacito.jpg"
+    "titulo": "Despacito",
+    "artista": "Luis Fonsi ft. Daddy Yankee",
+    "ano": 2017,
+    "genero": "Reguetón / Pop Latino",
+    "imagen": "assets/imagen/despacito.jpg"
   },
   {
-    "title": "Viva La Vida",
-    "artist": "Coldplay",
-    "year": 2008,
-    "genre": "Rock / Pop",
-    "image": "assets/imagen/viva_la_vida.jpg"
+    "titulo": "Viva La Vida",
+    "artista": "Coldplay",
+    "ano": 2008,
+    "genero": "Rock / Pop",
+    "imagen": "assets/imagen/viva_la_vida.jpg"
   },
   {
-    "title": "Bailando",
-    "artist": "Enrique Iglesias ft. Sean Paul, Descemer Bueno",
-    "year": 2014,
-    "genre": "Reguetón / Pop Latino",
-    "image": "assets/imagen/bailando.jpg"
+    "titulo": "Bailando",
+    "artista": "Enrique Iglesias ft. Sean Paul, Descemer Bueno",
+    "ano": 2014,
+    "genero": "Reguetón / Pop Latino",
+    "imagen": "assets/imagen/bailando.jpg"
   },
   {
-    "title": "La Bicicleta",
-    "artist": "Carlos Vives & Shakira",
-    "year": 2016,
-    "genre": "Pop Latino / Reguetón",
-    "image": "assets/imagen/la_bicicleta.jpg"
+    "titulo": "La Bicicleta",
+    "artista": "Carlos Vives & Shakira",
+    "ano": 2016,
+    "genero": "Pop Latino / Reguetón",
+    "imagen": "assets/imagen/la_bicicleta.jpg"
   },
   {
-    "title": "Hawái",
-    "artist": "Maluma",
-    "year": 2020,
-    "genre": "Reguetón / Pop",
-    "image": "assets/imagen/hawai.jpg"
+    "titulo": "Hawái",
+    "artista": "Maluma",
+    "ano": 2020,
+    "genero": "Reguetón / Pop",
+    "imagen": "assets/imagen/hawai.jpg"
   },
   {
-    "title": "Felices los 4",
-    "artist": "Maluma",
-    "year": 2017,
-    "genre": "Reguetón / Pop",
-    "image": "assets/imagen/felices_los_4.jpg"
+    "titulo": "Felices los 4",
+    "artista": "Maluma",
+    "ano": 2017,
+    "genero": "Reguetón / Pop",
+    "imagen": "assets/imagen/felices_los_4.jpg"
   },
   {
-    "title": "Lo Malo",
-    "artist": "Aitana y Ana Guerra",
-    "year": 2018,
-    "genre": "Pop",
-    "image": "assets/imagen/lo_malo.jpg"
+    "titulo": "Lo Malo",
+    "artista": "Aitana y Ana Guerra",
+    "ano": 2018,
+    "genero": "Pop",
+    "imagen": "assets/imagen/lo_malo.jpg"
   },
   {
-    "title": "Te Boté",
-    "artist": "Nio Garcia, Casper Mágico, Darell",
-    "year": 2018,
-    "genre": "Reguetón",
-    "image": "assets/imagen/te_bote.jpg"
+    "titulo": "Te Boté",
+    "artista": "Nio Garcia, Casper Mágico, Darell",
+    "ano": 2018,
+    "genero": "Reguetón",
+    "imagen": "assets/imagen/te_bote.jpg"
   },
   {
-    "title": "Pa' Lante",
-    "artist": "Daddy Yankee",
-    "year": 2019,
-    "genre": "Reguetón",
-    "image": "assets/imagen/pa_lante.jpg"
+    "titulo": "Pa' Lante",
+    "artista": "Daddy Yankee",
+    "ano": 2019,
+    "genero": "Reguetón",
+    "imagen": "assets/imagen/pa_lante.jpg"
   },
   {
-    "title": "Shaky Shaky",
-    "artist": "Daddy Yankee",
-    "year": 2017,
-    "genre": "Reguetón",
-    "image": "assets/imagen/shaky_shaky.jpg"
+    "titulo": "Shaky Shaky",
+    "artista": "Daddy Yankee",
+    "ano": 2017,
+    "genero": "Reguetón",
+    "imagen": "assets/imagen/shaky_shaky.jpg"
   }
 ]

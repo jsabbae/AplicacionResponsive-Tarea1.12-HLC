@@ -4,11 +4,11 @@ import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 
 interface Cancion {
-  title: string;
-  artist: string;
-  year: number;
-  genre: string;
-  image: string;  // Asegúrate de que esta propiedad esté en tu JSON
+  titulo: string;
+  artista: string;
+  ano: number;
+  genero: string;
+  imagen: string;  // Asegúrate de que esta propiedad esté en tu JSON
 }
 
 @Component({
@@ -38,7 +38,7 @@ export class HomePage {
       this.canciones$ = this.canciones$.pipe(
         map((canciones: Cancion[]) =>
           canciones.filter(cancion =>
-            cancion.title.toLowerCase().includes(this.filtro.toLowerCase())
+            cancion.titulo.toLowerCase().includes(this.filtro.toLowerCase())
           )
         )
       );
