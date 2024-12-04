@@ -8,7 +8,7 @@ interface Cancion {
   artista: string;
   ano: number;
   genero: string;
-  imagen: string;  // Asegúrate de que esta propiedad esté en tu JSON
+  imagen: string;
 }
 
 @Component({
